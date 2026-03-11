@@ -1,0 +1,14 @@
+{
+  "profile": {
+    "name": "นาย จักรพรรดิ ศรีเมฆ",
+    "studentId": "b6730200031",
+    "major": "วิทยาการคอมพิวเตอร์",
+    "school": "โรงเรียนองครักษ์",
+    "image": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+    "username": "b6730200031",
+    "password": "1234"
+  },
+  "courses": [],
+  "posts": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
